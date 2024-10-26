@@ -1,0 +1,5 @@
+screen_reader=false
+rcfile=0
+xterm=xterm-256color
+base_port=555
+locale=0

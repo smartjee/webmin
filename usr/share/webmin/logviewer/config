@@ -1,0 +1,6 @@
+log_any=0
+reverse=1
+lines=100
+skip_index=1
+others=1
+compressed=1

@@ -1,0 +1,10 @@
+updays=1
+letsencrypt_reuse=1
+letsencrypt_dns_wait=10
+update=0
+upshow=1
+warn_days=7
+cron_mode=0
+upmissing=0
+letsencrypt_algo=rsa
+osdn=1
